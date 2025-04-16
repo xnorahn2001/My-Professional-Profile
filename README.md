@@ -22,7 +22,7 @@ Passionate about building beautiful, performant web applications with clean code
 
 ## 📫 Let's Connect
 [![Email](https://img.shields.io/badge/Email-Norahnaifal@hotmail.com-blue?style=flat&logo=gmail)](mailto:Norahnaifal@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/norahnaljbreen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/norahnaljbreen/)
 
 
 ## 📊 GitHub Stats
