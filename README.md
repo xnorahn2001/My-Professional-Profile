@@ -7,12 +7,13 @@ Passionate about building beautiful, performant web applications with clean code
 | **Frontend**       | **Backend**      | **Design Tools**  |
 |--------------------|------------------|-------------------|
 | React.js          | C# (.NET)        | Figma             |
-| JavaScript (ES6+) | Python           | Adobe XD          |
+| JavaScript        | Python           | Adobe XD          |
 | HTML5/CSS3        | RESTful APIs     | User Research     |
 
 ## 🎓 Education & Training
+- Completed Bachelor's Degree on **Software Engineering** at University Of Hail ..
 - Completed intensive **Software Development Bootcamp** at Saudi Digital Academy (C#/.NET focus)
-- Continuously learning modern web development best practices
+
 
 ## 🌱 Currently Exploring
 - Advanced React patterns
